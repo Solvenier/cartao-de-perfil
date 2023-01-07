@@ -1,2 +1,6 @@
 # cartao-de-perfil
 Projeto realizado no modulo de display flex do curso Dev Quest
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tecnologias Utilizadas:
+- HTML
+- CSS
